@@ -16,5 +16,4 @@ app.controller("CustomerSearchController", [
    }
   }
 
-  
 ]);
